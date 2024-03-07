@@ -1,0 +1,23 @@
+.wrapper {
+  margin-top: 280px;
+  text-align: center;
+  color: rgb(228, 86, 102);
+  font-weight: bold;
+}
+.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .gallery-item {
+    width: 30%; 
+    margin-bottom: 20px; 
+  }
+  
+  .gallery-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px; 
+  }
+  

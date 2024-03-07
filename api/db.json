@@ -1,0 +1,144 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "strCategory": "Beefs",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/beef.png",
+      "strCategoryDescription": "Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times.[1] Beef is a source of high-quality protein and essential nutrients.[2]",
+      "price": 2500
+    },
+    {
+      "id": "2",
+      "strCategory": "Fried Chicken",
+      "strCategoryThumb": "https://images.unsplash.com/photo-1626082929543-5bab0f090c42?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8ZnJpZWQlMjBjaGlja2VufGVufDB8fDB8fHww",
+      "strCategoryDescription": "Chicken is a type of domesticated fowl, a subspecies of the red junglefowl. It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011.[1] Humans commonly keep chickens as a source of food (consuming both their meat and eggs) and, more rarely, as pets.",
+      "price": 12000
+    },
+    {
+      "id": "3",
+      "strCategory": "Dessert",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/dessert.png",
+      "strCategoryDescription": "Dessert is a course that concludes a meal. The course usually consists of sweet foods, such as confections dishes or fruit, and possibly a beverage such as dessert wine or liqueur, however in the United States it may include coffee, cheeses, nuts, or other savory items regarded as a separate course elsewhere. In some parts of the world, such as much of central and western Africa, and most parts of China, there is no tradition of a dessert course to conclude a meal.\r\n\r\nThe term dessert can apply to many confections, such as biscuits, cakes, cookies, custards, gelatins, ice creams, pastries, pies, puddings, and sweet soups, and tarts. Fruit is also commonly found in dessert courses because of its naturally occurring sweetness. Some cultures sweeten foods that are more commonly savory to create desserts.",
+      "price": 90000
+    },
+    {
+      "id": "4",
+      "strCategory": "Lamb",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/lamb.png",
+      "strCategoryDescription": "Lamb, hogget, and mutton are the meat of domestic sheep (species Ovis aries) at different ages.\r\n\r\nA sheep in its first year is called a lamb, and its meat is also called lamb. The meat of a juvenile sheep older than one year is hogget; outside the USA this is also a term for the living animal. The meat of an adult sheep is mutton, a term only used for the meat, not the living animals. The term mutton is almost always used to refer to goat meat in the Indian subcontinent.\r\n\r\n",
+      "price": 90000
+    },
+    {
+      "id": "5",
+      "strCategory": "Tacos",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/miscellaneous.png",
+      "strCategoryDescription": "General foods that don't fit into another category",
+      "price": 50000
+    },
+    {
+      "id": "6",
+      "strCategory": "Pasta",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/pasta.png",
+      "strCategoryDescription": "Pasta is a staple food of traditional Italian cuisine, with the first reference dating to 1154 in Sicily.\r\n\r\nAlso commonly used to refer to the variety of pasta dishes, pasta is typically a noodle made from an unleavened dough of a durum wheat flour mixed with water or eggs and formed into sheets or various shapes, then cooked by boiling or baking. As an alternative for those wanting a different taste, or who need to avoid products containing gluten, some pastas can be made using rice flour in place of wheat.[3][4] Pastas may be divided into two broad categories, dried (pasta secca) and fresh (pasta fresca).",
+      "price": 50000
+    },
+    {
+      "id": "7",
+      "strCategory": "Pork",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/pork.png",
+      "strCategoryDescription": "Pork is the culinary name for meat from a domestic pig (Sus scrofa domesticus). It is the most commonly consumed meat worldwide,[1] with evidence of pig husbandry dating back to 5000 BC. Pork is eaten both freshly cooked and preserved. Curing extends the shelf life of the pork products. Ham, smoked pork, gammon, bacon and sausage are examples of preserved pork. Charcuterie is the branch of cooking devoted to prepared meat products, many from pork.\r\n\r\nPork is the most popular meat in Eastern and Southeastern Asia, and is also very common in the Western world, especially in Central Europe. It is highly prized in Asian cuisines for its fat content and pleasant texture. Consumption of pork is forbidden by Jewish and Muslim dietary law, a taboo that is deeply rooted in tradition, with several suggested possible causes. The sale of pork is limited in Israel and illegal in certain Muslim countries.",
+      "price": 85000
+    },
+    {
+      "id": "8",
+      "strCategory": "Seafood",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/seafood.png",
+      "strCategoryDescription": "Seafood is any form of sea life regarded as food by humans. Seafood prominently includes fish and shellfish. Shellfish include various species of molluscs, crustaceans, and echinoderms. Historically, sea mammals such as whales and dolphins have been consumed as food, though that happens to a lesser extent in modern times. Edible sea plants, such as some seaweeds and microalgae, are widely eaten as seafood around the world, especially in Asia (see the category of sea vegetables). In North America, although not generally in the United Kingdom, the term \"seafood\" is extended to fresh water organisms eaten by humans, so all edible aquatic life may be referred to as seafood. For the sake of completeness, this article includes all edible aquatic life.",
+      "price": 75000
+    },
+    {
+      "id": "9",
+      "strCategory": "Side",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/side.png",
+      "strCategoryDescription": "A side dish, sometimes referred to as a side order, side item, or simply a side, is a food item that accompanies the entrée or main course at a meal. Side dishes such as salad, potatoes and bread are commonly used with main courses throughout many countries of the western world. New side orders introduced within the past decade[citation needed], such as rice and couscous, have grown to be quite popular throughout Europe, especially at formal occasions (with couscous appearing more commonly at dinner parties with Middle Eastern dishes).",
+      "price": 100000
+    },
+    {
+      "id": "12",
+      "strCategory": "Vegetarian",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/vegetarian.png",
+      "strCategoryDescription": "Vegetarianism is the practice of abstaining from the consumption of meat (red meat, poultry, seafood, and the flesh of any other animal), and may also include abstention from by-products of animal slaughter.\r\n\r\nVegetarianism may be adopted for various reasons. Many people object to eating meat out of respect for sentient life. Such ethical motivations have been codified under various religious beliefs, as well as animal rights advocacy. Other motivations for vegetarianism are health-related, political, environmental, cultural, aesthetic, economic, or personal preference. There are variations of the diet as well: an ovo-lacto vegetarian diet includes both eggs and dairy products, an ovo-vegetarian diet includes eggs but not dairy products, and a lacto-vegetarian diet includes dairy products but not eggs. A vegan diet excludes all animal products, including eggs and dairy. Some vegans also avoid other animal products such as beeswax, leather or silk clothing, and goose-fat shoe polish.",
+      "price": 50000
+    },
+    {
+      "id": "13",
+      "strCategory": "Breakfast",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/breakfast.png",
+      "strCategoryDescription": "Breakfast is the first meal of a day. The word in English refers to breaking the fasting period of the previous night. There is a strong likelihood for one or more \"typical\", or \"traditional\", breakfast menus to exist in most places, but their composition varies widely from place to place, and has varied over time, so that globally a very wide range of preparations and ingredients are now associated with breakfast.",
+      "price": 55000
+    },
+    {
+      "id": "14",
+      "strCategory": "Goat",
+      "strCategoryThumb": "https://www.themealdb.com/images/category/goat.png",
+      "strCategoryDescription": "The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated from the wild goat of Southwest Asia and Eastern Europe. The goat is a member of the animal family Bovidae and the subfamily Caprinae, meaning it is closely related to the sheep. There are over 300 distinct breeds of goat. Goats are one of the oldest domesticated species of animal, and have been used for milk, meat, fur and skins across much of the world. Milk from goats is often turned into goat cheese.",
+      "price": 65000
+    },
+    {
+      "id": "15",
+      "strCategory": "Spagheti",
+      "strCategoryThumb": "https://images.unsplash.com/photo-1622973536968-3ead9e780960?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8c3BhZ2hldHRpfGVufDB8fDB8fHww",
+      "strCategoryDescription": "Spaghetti is a type of pasta made from durum wheat semolina and water, formed into thin, cylindrical strands. It is commonly served with a variety of sauces, such as marinara, Alfredo, or carbonara. Spaghetti is a versatile dish that can be paired with meats, vegetables, or seafood, and it is enjoyed worldwide for its satisfying texture and ability to absorb flavors.",
+      "price": 25000
+    },
+    {
+      "id": "16",
+      "strCategory": "Fried Rice",
+      "strCategoryThumb": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZnJpZWQlMjByaWNlfGVufDB8fDB8fHww",
+      "strCategoryDescription": "Fried rice is an Indonesian dish consisting of rice fried with spices such as garlic, shallots, chili, and spices. It is usually served with additions like meat, shrimp, eggs, or vegetables. Its taste is rich and varied, with a combination of sweetness, saltiness, and spiciness that tantalizes the palate.",
+      "price": 20000
+    },
+    {
+      "id": "17",
+      "strCategory": "Lemon Tea",
+      "strCategoryThumb": "https://images.unsplash.com/photo-1592099759599-24b131b8e824?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGljZSUyMGxlbW9uJTIwdGVhfGVufDB8fDB8fHww",
+      "strCategoryDescription": "Lemon tea is a beverage made from black tea or green tea mixed with lemon water or freshly squeezed lemon juice. It has a refreshing taste with a combination of lemon acidity and light tea flavor. Lemon tea is often served cold with ice and sometimes sweetened with sugar or other sweeteners according to taste. This beverage is popular worldwide for its refreshing taste, suitable for consumption during the day or whenever you need a refreshment.",
+      "price": 10000
+    },
+    {
+      "id": "18",
+      "strCategory": "Ice Tea",
+      "strCategoryThumb": "https://images.unsplash.com/photo-1601390395693-364c0e22031a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aWNlJTIwdGVhfGVufDB8fDB8fHww",
+      "strCategoryDescription": "Iced tea is a refreshing beverage made by steeping tea leaves in cold water and then serving it over ice. It comes in various flavors, such as black tea, green tea, or herbal tea, and can be sweetened or unsweetened according to preference. Iced tea is a popular choice for staying cool and hydrated, especially during hot weather, and it is enjoyed worldwide for its crisp and revitalizing taste.",
+      "price": 7000
+    },
+    {
+      "id": "19",
+      "strCategory": "Mineral Water",
+      "strCategoryThumb": "data:image/jpeg;base64,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",
+      "strCategoryDescription": "Mineral water is a type of water that naturally contains various minerals, such as calcium, magnesium, and potassium, which are beneficial for health. It is typically sourced from underground springs or wells and undergoes minimal processing, often retaining its natural mineral content. Mineral water is known for its purity and freshness, making it a popular choice for hydration. It is commonly served in bottles and is enjoyed worldwide as a refreshing and healthy beverage option.",
+      "price": 5000
+    },
+    {
+      "id": "20",
+      "strCategory": "Cola",
+      "strCategoryThumb": "https://www.abubasteak.co.id/web/image/product.template/470/image_1024?unique=8633846",
+      "strCategoryDescription": "Cola is a carbonated soft drink that is dark brown in color and typically flavored with a combination of sugar, caffeine, and various natural and artificial flavorings. It has a distinct sweet and tangy taste with a refreshing fizz. Cola is one of the most popular soft drinks globally and is often enjoyed chilled or served over ice. It can be consumed on its own or used as a mixer in cocktails. Cola is known for its iconic branding and is a staple beverage choice in restaurants, cafes, and convenience stores worldwide.",
+      "price": 10000
+    },
+    {
+      "id": "21",
+      "strCategory": "Strawberry MilkShake",
+      "strCategoryThumb": "https://images.unsplash.com/photo-1579954115545-a95591f28bfc?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG1pbGtzaGFrZXxlbnwwfHwwfHx8MA%3D%3D",
+      "strCategoryDescription": "A Milkshake is a creamy, chilled beverage made by blending milk, ice cream, and various flavorings such as chocolate, vanilla, or fruit syrup. It's a delightful treat enjoyed for its refreshing taste and smooth texture, often served in a tall glass with a straw.",
+      "price": 17000
+    },
+    {
+      "id": "22",
+      "strCategory": "Coffe",
+      "strCategoryThumb": "https://media.istockphoto.com/id/1453402555/id/foto/tutup-cangkir-kopi-merah-cappuccino-panas-dengan-latte-art-bentuk-hati-di-atas-meja-kayu-tua.jpg?s=612x612&w=0&k=20&c=a5KyrfDxe_L2e9SOKM1XPUQncwCluDjFCe81kzmMPe8=",
+      "strCategoryDescription": "Coffee is a beloved beverage enjoyed worldwide for its rich flavor and energizing effects. It is made from roasted and ground coffee beans, typically brewed with hot water. Whether served black, with milk, or sweetened, coffee offers a wide range of flavors and aromas, from bold and robust to smooth and creamy. It's not just a drink; it's a cultural experience enjoyed in cafes, homes, and workplaces everywhere.",
+      "price": 7000
+    }
+  ]
+}
