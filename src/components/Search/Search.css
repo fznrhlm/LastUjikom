@@ -1,0 +1,48 @@
+.search-bar {
+    position: absolute;
+    right: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    width: 40%;
+  }
+  
+  .search-bar input[type="text"] {
+    width: calc(100% - 40px); /* Adjust the width to accommodate the search icon */
+    padding: 8px;
+    border: none;
+    border-radius: 360px;
+    background: #fff;
+    color: black; /* Set text color */
+  }
+  .search-bar button {
+    border-radius: 360px;
+  }
+  
+  .whole1 {
+    margin-inline: 10px;
+    border-radius: 10px;
+    border: 1px solid white; /* Red border */
+    box-shadow: 0 0 5px white; /* Red shadow */
+    backdrop-filter: blur(5px);
+    background-color: rgba(0, 0, 0, 0.5);
+    margin: 10px;
+    height: 400px;
+    width: 340px;
+    justify-content: center;
+  }
+  
+  .awikwok123 {
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .formbanh{
+    background:none;
+    border: none;
+  }
+  
